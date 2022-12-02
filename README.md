@@ -1,3 +1,3 @@
 # 网络请求工具
 
-访问http://net.nodes-link.com使用该服务
+使用该服务,可以访问http://net.nodes-link.com
